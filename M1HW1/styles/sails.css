@@ -1,0 +1,39 @@
+
+body {
+	background-image:url("sailbluePNG.png");
+}
+#su {
+	text-align: center;
+	margin: auto;
+	width: 25%;
+	background-color: tan;
+}
+
+a:link {
+	text-decoration:none;
+	font-weight: bold;
+	color:#000;
+}
+
+a:hover{
+	color: yellow;
+	font-weight: bold;
+}
+
+#bcontent{
+	background-color:tan;
+}
+
+#content{
+	text-align:justify;
+	margin: auto;
+	width:50%
+}
+
+#divlogin{
+	text-align:center;
+}
+
+#blogin{
+	background-color:tan;
+}
